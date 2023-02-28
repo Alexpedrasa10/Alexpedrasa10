@@ -18,7 +18,7 @@ class About extends Me
         return [
             Php::class,
             Laravel::class,
-            SQL::class,
+            Sql::class,
             MongoDB::class,
             Javascript::class,
             NodeJS::class,
