@@ -1,8 +1,11 @@
 ```php
-<?php
+<?php 
+
 namespace AlexPedrasa;
+
 class About extends Me
 {
+
     public function getCurrentWorkplace()
     {
         return [
@@ -13,6 +16,7 @@ class About extends Me
             ]
         ];
     }
+    
     public function getSkills()
     {
         return [
@@ -31,6 +35,5 @@ class About extends Me
             Redis::class
         ];
     }
-
 }
 ```
