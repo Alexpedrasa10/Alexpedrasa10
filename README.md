@@ -10,7 +10,7 @@ class About extends Me
     {
         return [
             'workplace' => [
-                'company' => 'South Hive',
+                'company' => 'Key Data',
                 'position' => 'Backend Developer',
                 'seniority' => 'Semi Senior',
             ]
